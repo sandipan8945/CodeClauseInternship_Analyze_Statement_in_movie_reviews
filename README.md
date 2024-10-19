@@ -1,0 +1,1 @@
+# CodeClauseInternship_Analyze_Statement_in_movie_reviews
